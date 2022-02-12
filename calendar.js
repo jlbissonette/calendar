@@ -120,9 +120,7 @@ Module.register("Calendar", {
 	},
 
 	getStyles: function () {
-		return [
-			"Calendar.css",
-		];
+		return [this.data.path + "/css/calendar.css", this.getThemeCss()];
 	},
 
 	// Load translations files

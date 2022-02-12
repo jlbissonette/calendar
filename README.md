@@ -11,7 +11,7 @@ To use this module, add the following configuration block to the modules array i
 var config = {
     modules: [
         {
-            module: 'Calendar',
+            module: 'calendar',
             config: {
                 // See below for configurable options
             }

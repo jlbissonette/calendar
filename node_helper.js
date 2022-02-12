@@ -1,8 +1,8 @@
 /* Magic Mirror
- * Node Helper: Calendar
+ * Node Helper: calendar
  *
- * By Jlbissonette
- * MIT Licensed.
+ * By James Bissonette <gnomebookproject@gmail.com>
+ * MIT Licensed
  */
 
 var NodeHelper = require("node_helper");

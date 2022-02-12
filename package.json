@@ -1,9 +1,9 @@
 {
   "name": "Calendar",
   "version": "1.0.0",
-  "description": "Todo: Insert description here!",
-  "main": "Calendar.js",
-  "author": "Jlbissonette",
+  "description": "just another calendar module!",
+  "main": "calendar.js",
+  "author": "James Bissonette <gnomebookproject@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "grunt": "latest",
