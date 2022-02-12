@@ -1,11 +1,10 @@
-/* global Module */
-
-/* Magic Mirror
- * Module: Calendar
+/* Magic Mirror Module: calendar
+ * v1.0 - February. 2022
  *
- * By Jlbissonette
- * MIT Licensed.
+ * By James Bissonette <gnomebookproject@gmail.com>
+ * MIT Licensed
  */
+
 
 Module.register("Calendar", {
 	defaults: {
